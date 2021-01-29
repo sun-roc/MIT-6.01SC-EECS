@@ -1,0 +1,24 @@
+    The circuit we designed contains a buffer.
+    Because the buffer is used, it is possible to 
+isolate the circuit from the influence of the 
+circuit on the other side of the buffer and 
+get the results we want.
+    We pass, adjust the resistance of the two 
+resistors, and combine them into the k_c 
+value we need to achieve.
+    We chose a Inverting amplifier op amp.
+    Because we calculated the gain, when 
+the value of k_s is 4, the corresponding 
+k_c is less than 1. If the Non-Inverting amplifier 
+op amp is used, the minimum gain is 1, 
+so the Inverting amplifier op amp is
+selected.
+    This experiment first felt that the 
+implementation of a function on the 
+pure hardware level is much faster 
+than the combination of software, but 
+the implementation process is more 
+complicated. Therefore, when some 
+engineering problems are solved, it 
+is necessary to find a balance between 
+design difficulty and response speed.

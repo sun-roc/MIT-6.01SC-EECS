@@ -1,0 +1,5 @@
+import lib601.poly as poly
+import swLab03SignalDefinitions
+reload(swLab03SignalDefinitions) # so changes you make in swLab03SignalDefinitions.py will be reloaded
+from swLab03SignalDefinitions import *
+

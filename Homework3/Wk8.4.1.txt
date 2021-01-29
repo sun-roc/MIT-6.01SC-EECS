@@ -1,0 +1,9 @@
+1.The left photoresistor should be connected to the
+10V supply.
+2.
+Min is equal to 0 V
+Max is equal to 10 V
+3.
+5 V
+4.Decrease
+5.Increase
